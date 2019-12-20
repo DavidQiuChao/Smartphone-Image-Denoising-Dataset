@@ -7,3 +7,6 @@ First, you should run the python script "getMeanBlack.py" to generate the mean i
 Then, you can run "getDefectLocation.m" in matlab to get the mask of defective pixels.
 
 To generate a clean ground truth of a noise sequence image, you can run the official code from [SIDD](https://github.com/AbdoKamel/sidd-ground-truth-image-estimation)
+
+## Result
+![image](https://github.com/DavidQiuChao/Smartphone-Image-Denoising-Dataset/blob/master/comp.jpg)
