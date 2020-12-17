@@ -1,5 +1,5 @@
 # Smartphone-Image-Denoising-Dataset
-This is an unofficial implement of defective pixels detection in paper "A High-Quality Denoising Dataset for Smartphone Cameras".
+This is an unofficial implementation of defective pixels detection in paper "A High-Quality Denoising Dataset for Smartphone Cameras".
 
 ## How to get the defective pixel mask
 First, you should run the python script "getMeanBlack.py" to generate the mean image shot in very dark environment.
